@@ -35,7 +35,7 @@ function ChatApp() {
               setIsInChat(true);
             }}
           >
-            Enter Chat room
+            Enter Chat 
           </button>
         </div>
       ) : (
